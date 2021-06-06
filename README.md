@@ -1,5 +1,5 @@
 # Text-message-pipeline
-This repository documents a data science project: ETL and Classification Pipelines to analyze and label text messages in real time.
+This repository documents a data science project: analysis and classification of disaster text messages.
 
 
 ### Table of Contents
@@ -16,13 +16,13 @@ This repository documents a data science project: ETL and Classification Pipelin
 
 ## Overview<a name="overview"></a>
 
-In this project, we analyze a disaster text messages dataset, build and deploy a ETL pipeline and machine learning model to classify the messages into different information categories.
+In this project, we analyze a disaster text messages dataset, build a ETL pipeline and machine learning model to classify messages into different information categories, and deploy them via a web application.
 
-The **data** consists of text messages sent following a natural disaster.
+The **DATA** consists of text messages sent following a natural disaster.
 
-The **goal** is to identify the needed resource or key information for each message in real time, such as 'water', 'medicare', 'transportation', etc, so that it can be sent to the appropriate disaster relief agency.
+The **GOAL** is to identify the needed resource or key information for each message in real time, such as 'water', 'medicare', 'transportation', etc, so that it can be sent to appropriate disaster relief agencies.
 
-The major components of this project are:
+The main components of this project are:
 
 (1). **ETL Pipeline**: to clean, transform, and save the text messages and categories data.
 
@@ -52,7 +52,7 @@ The major components of this project are:
 
 ## Results<a name="results"></a>
 
-The result of the project will be delivered by this web application (tba).
+The result of the project will be delivered via this web application (tba).
 
 
 ## Data Source, License, Acknowledgement <a name="source"></a>
