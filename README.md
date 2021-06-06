@@ -1,5 +1,5 @@
 # Text-message-pipeline
-This repository documents a data science project: analysis and classification of disaster text messages.
+This repository documents a data science project: analysis and classification of text messages.
 
 
 ### Table of Contents
@@ -57,7 +57,7 @@ The result of the project will be delivered via this web application (tba).
 
 ## Data Source, License, Acknowledgement <a name="source"></a>
 
-The original dataset is generously provided by [Figure Eight](https://appen.com/).
+The original dataset is generously provided by [Appen](https://appen.com/).
 
 You can find the Licensing for the dataset and other descriptive information in the link above.  Other than that, feel free to use anything here as you would like!
 
